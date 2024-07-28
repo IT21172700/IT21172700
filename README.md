@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **MERN,JAVA,Android**
 
